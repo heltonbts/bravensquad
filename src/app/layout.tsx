@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Xquads — As maiores mentes trabalhando para voce",
+  title: "BravenSquads — As maiores mentes trabalhando para voce",
   description: "Squads de agentes IA especializados. As maiores referencias do mundo transformadas em agentes prontos para trabalhar no seu projeto.",
 };
 

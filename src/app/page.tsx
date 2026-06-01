@@ -47,12 +47,12 @@ export default function HomePage() {
         ))}
       </div>
 
-      {/* O que e o Xquads */}
+      {/* O que e o BravenSquads */}
       <div className="space-y-4">
-        <h2 className="text-xl font-semibold text-white">O que e o Xquads?</h2>
+        <h2 className="text-xl font-semibold text-white">O que e o BravenSquads?</h2>
         <div className="space-y-3 text-sm text-[#bbb] leading-relaxed">
           <p>
-            O <span className="text-white font-medium">Xquads</span> e um sistema de inteligencia artificial
+            O <span className="text-white font-medium">BravenSquads</span> e um sistema de inteligencia artificial
             que organiza agentes especializados em squads tematicos. Cada squad reune as maiores referencias
             de uma area — copywriters lendarios, estrategistas de trafego, mestres de storytelling, consultores
             de branding, especialistas em cybersecurity e muito mais — todos transformados em agentes de IA
@@ -77,7 +77,7 @@ export default function HomePage() {
             quando ela e <span className="text-white font-medium">especializada, contextualizada e organizada</span>.
           </p>
           <p>
-            Criamos o Xquads porque vimos que empreendedores e equipes precisam de mais do que respostas
+            Criamos o BravenSquads porque vimos que empreendedores e equipes precisam de mais do que respostas
             genericas. Eles precisam de consultores virtuais que pensem como os melhores do mundo em cada
             disciplina — com frameworks reais, metodologias comprovadas e a profundidade de quem dedicou
             a vida inteira a um campo.

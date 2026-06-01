@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "traffic-agent": {
+      "command": "npx",
+      "args": ["-y", "tsx", "mcp/traffic-server.ts"]
+    }
+  }
+}

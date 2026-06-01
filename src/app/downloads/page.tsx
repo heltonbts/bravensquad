@@ -68,7 +68,7 @@ export default function DownloadsPage() {
               <Package className="h-6 w-6 text-[#EA8049]" />
             </div>
             <div className="flex-1 min-w-0">
-              <h2 className="text-lg font-semibold text-white">Pacote Xquads</h2>
+              <h2 className="text-lg font-semibold text-white">Pacote BravenSquads</h2>
               <p className="text-sm text-[#888] mt-1">
                 Todos os 12 squads com agentes, workflows, tasks e configuracoes prontos para uso.
                 Inclui Advisory Board, Brand, Copy, Cybersecurity, Data, Design, Hormozi, Movement, Storytelling, Traffic Masters, C-Level e Claude Code Mastery.
@@ -117,7 +117,7 @@ export default function DownloadsPage() {
                   className="inline-flex items-center gap-2 rounded-lg bg-[#EA8049] px-5 py-2.5 text-sm font-semibold text-white hover:bg-[#d0703f] transition-colors"
                 >
                   <Download className="h-4 w-4" />
-                  Baixar Xquads (ZIP)
+                  Baixar BravenSquads (ZIP)
                 </button>
                 <button
                   onClick={() => setActiveForm('github-xquads')}

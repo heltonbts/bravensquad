@@ -3,6 +3,10 @@
     "traffic-agent": {
       "command": "npx",
       "args": ["-y", "tsx", "mcp/traffic-server.ts"]
+    },
+    "instagram-agent": {
+      "command": "npx",
+      "args": ["-y", "tsx", "mcp/instagram-server.ts"]
     }
   }
 }

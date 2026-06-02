@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "mcp:traffic": "tsx mcp/traffic-server.ts"
+    "mcp:traffic": "tsx mcp/traffic-server.ts",
+    "mcp:instagram": "tsx mcp/instagram-server.ts"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",
